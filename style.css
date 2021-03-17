@@ -1,0 +1,38 @@
+body{
+    background-color: #f3f1ff;
+}
+.navbar{
+    margin-bottom: 50px;
+}
+.navbar img{
+    width: 40px;
+}
+.player img{
+    width: 56px;
+}
+.pl-4{
+    padding-left: 25px;
+}
+main{
+    max-width: 870px;
+    margin-bottom: 50px;
+
+}
+.col-md-6 img{
+    width: 200px;
+}
+.pl-2{
+    padding-left: 25px;
+}
+h3{
+    color: rgb(116, 116, 252);
+}
+.blog{
+    color: rgb(63, 63, 248);
+}
+.container{
+    max-width: 870px;
+}
+.card-text{
+    color: coral;
+}
